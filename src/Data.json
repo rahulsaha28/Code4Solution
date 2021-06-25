@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "image":"https://img.freepik.com/free-vector/web-development_73903-164.jpg?size=626&ext=jpg",
+        "name": "Avneesh",
+        "jobTitle":"Web Developer",
+        "profile_pic":"https://upload.wikimedia.org/wikipedia/commons/4/4e/A_profile.jpg"
+    },
+
+    {
+        "id":2,
+        "image":"https://www.propspace.com/blog/wp-content/uploads/2019/01/bg.jpg",
+        "name": "Rahul Saha",
+        "jobTitle":"Software Developer",
+        "profile_pic":"https://www.alucoildesign.com/assets/pages/media/profile/profile_user.jpg"
+    }
+
+]
